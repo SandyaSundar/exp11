@@ -23,7 +23,15 @@ Each flip-flop in this circuit will be clocked at exactly the same time. The res
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.
+1. Type the program in Quartus software.
+
+2. Compile and run the program.
+
+3. Generate the RTL schematic and save the logic diagram.
+
+4. Create nodes for inputs and outputs to generate the timing diagram.
+
+5. For different input combinations generate the timing diagram.
 
 Developed by: RegisterNumber: */
 
@@ -34,3 +42,5 @@ Developed by: RegisterNumber: */
 **TRUTH TABLE**
 
 **RESULTS**
+
+Thus 4 bit synchronous up counter is implemented.
